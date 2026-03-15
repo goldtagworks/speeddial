@@ -1,0 +1,1 @@
+export { SpeedDialPage } from './SpeedDialPage';
